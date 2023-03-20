@@ -1,0 +1,16 @@
+.BoardDetail--Heading {
+  /*  */
+}
+
+.BoardDetail--Heading .BoardDetail--Title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.BoardDetail--Heading .BoardDetail--Actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
